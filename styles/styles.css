@@ -1,0 +1,18 @@
+body {
+background-color: black;
+}
+
+div.bgimage {
+	background-image: url("../images/calm_lake.jpg");
+	height: 500px;
+	width: 100%;
+
+}
+
+div.topnav {
+	color: white;
+}
+
+p {
+	margin: 50px 50px 50px 50px
+}
